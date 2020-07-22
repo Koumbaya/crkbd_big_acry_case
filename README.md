@@ -25,6 +25,11 @@ There is 8 mounting points (per halve) but only 3 screws are visible, the other 
 
 you can find me on reddit under u/Coumbaya
 
+#NOTES
+
+This is a quick project but it turned out about how I wanted it to be so I don't think I'm making any changes yet.
+note on the TRSS cable cuttout : unfortunately I couldn't design it to allow 90 degree connectors, so its for straight connectors only
+
 #LICENSE
 
 All the DXF/SLDPRT files here are licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.

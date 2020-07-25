@@ -29,6 +29,7 @@ you can find me on reddit under u/Coumbaya
 
 This is a quick project but it turned out about how I wanted it to be so I don't think I'm making any changes yet.
 note on the TRSS cable cuttout : unfortunately I couldn't design it to allow 90 degree connectors, so its for straight connectors only
+I added a 5 column version, I didn't try it, but it seems alright in the 3D view with switches etc, all I did was offset everything past the 5 column 19mm to the left. I didn't remake a "single sheet" version for the 5col dxfs, I'll leave it to you ;-)
 
 #LICENSE
 
